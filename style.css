@@ -1,0 +1,42 @@
+.general{
+    margin: auto;
+    width: 600px;
+    height: 600px;
+    border: 1px solid red;
+    /*background-color:aquamarine;*/
+}
+
+.titulo{
+    float: left;
+    width: 300px;
+    height: 40px;   
+  /*background-color:blue;*/
+}
+
+.imagen{
+    float: right;
+    width: 20px;
+    height: 40px;
+}
+
+.card{
+    margin-top: 31px;
+    float: right;
+    width: 300px;
+    height: 400px;
+   /* border: 1px solid blue;*/
+}
+
+.card2{
+    margin-top: 70px;
+    width: 280px;
+    height: 400px;
+    /*border: 1px solid blue;*/
+}
+
+.boton{
+      margin: auto;
+      margin-top: 20px;
+      width: 200px;
+      height: 30px;
+}
